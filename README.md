@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 -->
 
 
-*  1st year M.Sc. Computer Science student at Bar-Ilan University.
+* 🌱 M.Sc. Computer Science student nearing graduation at the NLP lab of Bar-Ilan University, under the supervision of Prof. Reut Tsarfaty.
 
-*  B.Sc. in Computer Science from Bar-Ilan University.
+* 🧑🏼‍🎓 B.Sc. in Computer Science from Bar-Ilan University.
 
 
 <!-- Actual text -->
 
-* You can find me on [![LinkedIn][2.2]][2].
+* 📫 Reach me at: [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
